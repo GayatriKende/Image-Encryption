@@ -11,4 +11,4 @@ directly in your browser
 
 2. Simple, responsive UI for easy usage
 
-3. Open-source—contributions welcome!
+
